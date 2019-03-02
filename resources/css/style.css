@@ -1,0 +1,8 @@
+/*Bootstrap uses box-sizing: border-box by default. Use the following style if you need to override it.*/
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+div {
+  background-color: gray;
+}

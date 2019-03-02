@@ -1,0 +1,10 @@
+1. Help create a visualization showing the state of Walnut Creek’s neighborhoods.
+    - Display map using open layers library
+2. Help us visualize and interpret data from Walnut Creek’s permitting and entitlement process.
+    - Display some sort of charts using High Charts
+3. Help create a central calendar of Walnut Creek events, including Arts & Rec, City and non-profit activities.
+    - Display some sort of calendar. Export to iCal format so anyone can add this calendar to their personal calendar
+
+For any of these cases:
+  - create a website using HTML, CSS, JS and potentially Polymer
+  
